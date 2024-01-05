@@ -4,5 +4,5 @@
   ->6 different type hover effect design buttons<br>
 <h4>2)Effective Animated Cards</h4>
   ->animated and images slide cards<br>
-  ->Front-side credit card.<br>
+  ->Front-side credit card.<br><br>
 Author-Raghavendra
