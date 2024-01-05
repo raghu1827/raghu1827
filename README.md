@@ -17,6 +17,14 @@
 <h4>2)Effective Animated Cards</h4>
   ->Animated and images slide cards<br>
   ->Front-side credit card.<br><br>
+<h4>3)Java Coffee Website</h4>
+  ->Java Coffee Website using only HTML.
+  ->In Java Coffee project as four pages.
+    *Home page
+    *About Us 
+    *Services
+    *Contact
+  ->Only using HTML in vscode. 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=raghu1827&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
