@@ -90,21 +90,28 @@ input:checked + label.description {
 }
 
 .card[for="c1"] {
-  background-image: url("/CARD1/images/img1.jpeg");
+  background: linear-gradient(#ef5749, #99d774, #ff0000, #ffc689);
 }
 
 .card[for="c2"] {
-  background-image: url("/CARD1/images/img2.jpeg");
+  background: linear-gradient(#d7e2f3, #ee1289, #c63d0e, #336657);
 }
 
 .card[for="c3"] {
-  background-image: url("/CARD1/images/img3.jpeg");
+  background: linear-gradient(#fa8072, #fe4164, #ff7f00, #97ebdb, #ffc689);
 }
 
 .card[for="c4"] {
-  background-image: url("/CARD1/images/img4.jpeg");
+  background: linear-gradient(
+    #505e6e,
+    #efc0cd,
+    #d11de7,
+    #fff,
+    #11a1c1,
+    #ff0000
+  );
 }
 
 .card[for="c5"] {
-  background-image: url("/CARD1/images/img5.jpeg");
+  background: linear-gradient(#c63d0e, #fff, #ff0000, #99d774, #ee1289);
 }
